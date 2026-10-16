@@ -1,3 +1,6 @@
 [submodule "web"]
 	path = web
 	url = https://github.com/more-shubham/construction-web.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/more-shubham/construction-backend.git
