@@ -4,6 +4,7 @@ Welcome to the **Construction** project monorepo.
 
 ## Project Structure
 - [`web/`](./web): Mobile-first, 100% client-side Progressive Web Application (PWA) built with Next.js, TypeScript, Tailwind CSS, and shadcn/ui. Linked as a private Git submodule referencing [`more-shubham/construction-web`](https://github.com/more-shubham/construction-web).
+- [`backend/`](./backend): Construction management backend API built with Express.js, TypeScript, and Prisma. Linked as a private Git submodule referencing [`more-shubham/construction-backend`](https://github.com/more-shubham/construction-backend).
 
 ## Submodule Setup
 To clone this repository along with its submodules:
