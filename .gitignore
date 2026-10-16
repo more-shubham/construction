@@ -13,4 +13,4 @@ pnpm-debug.log*
 .env
 
 # Scripts
-*.ps1
+# *.ps1
